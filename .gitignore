@@ -1,0 +1,23 @@
+# Raw Kaggle dataset (~9.6GB) - download separately, see README
+archive/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.~lock.*#
+
+# Environment / secrets
+.env
+
+# Claude Code local settings
+.claude/
